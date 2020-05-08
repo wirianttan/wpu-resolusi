@@ -5,6 +5,7 @@ Rencana konten WPU
   ~ NodeJS  
 - PHP Framework
   ~ Laravel
+- Delphi
 - TEst bahan baru
 - Interview
 - Vlogs
