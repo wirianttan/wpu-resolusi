@@ -1,7 +1,10 @@
 Rencana konten WPU
 
 - Javascript
+  ~ Vue
+  ~ Angular
 - PHP Framework
+  ~ CI
 - Interview
 - Vlogs
 
