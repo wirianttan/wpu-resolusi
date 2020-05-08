@@ -1,10 +1,11 @@
 Rencana konten WPU
 
 - Javascript
-  ~ Vue
-  ~ Angular
+  ~ Vuew
+  ~ NodeJS  
 - PHP Framework
-  ~ CI
+  ~ Laravel
+- TEst bahan baru
 - Interview
 - Vlogs
 
